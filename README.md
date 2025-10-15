@@ -18,9 +18,9 @@ This project implements a deep learning model to classify chest CXR images into 
 
 Below is a sample image from each class within the dataset:
 
-|           COVID-19           |           Normal            |           Viral Pneumonia           |
+|           COVID-19           |           Normal            |                Virus                |
 | :--------------------------: | :-------------------------: | :---------------------------------: |
-| ![COVID-19 X-ray](COVID.jpg) | ![Normal X-ray](Normal.jpg) | ![Viral Pneumonia X-ray](Virus.jpg) |
+| ![COVID-19 X-ray](COVID.jpg) | ![Normal X-ray](Normal.jpeg) | ![Viral Pneumonia X-ray](Virus.jpeg) |
 
 ---
 
