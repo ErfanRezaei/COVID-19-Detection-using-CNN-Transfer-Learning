@@ -20,7 +20,7 @@ Below is a sample image from each class within the dataset:
 
 |           COVID-19           |           Normal            |                Virus                |
 | :--------------------------: | :-------------------------: | :---------------------------------: |
-| ![COVID-19 X-ray](COVID.jpg) | ![Normal X-ray](Normal.jpeg) | ![Viral Pneumonia X-ray](Virus.jpeg) |
+| ![COVID-19 X-ray](COVID-19.jpg) | ![Normal X-ray](Normal.jpeg) | ![Viral Pneumonia X-ray](Virus(2).jpeg) |
 
 ---
 
