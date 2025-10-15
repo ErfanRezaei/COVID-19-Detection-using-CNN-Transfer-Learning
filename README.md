@@ -44,8 +44,8 @@ Note: It's highly recommended to use a virtual environment to keep project depen
 1.  **Clone the repository:**
 
     ```bash
-    git clone [Your-Repository-Link]
-    cd [Your-Repository-Folder]
+    git clone https://github.com/ErfanRezaei/COVID-19-Detection-using-CNN-Transfer-Learning
+    cd COVID-19 Detection using Transfer Learning
     ```
 
 2.  **Download the dataset:**
