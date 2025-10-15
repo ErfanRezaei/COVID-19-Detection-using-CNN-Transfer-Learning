@@ -5,16 +5,9 @@ This project implements a deep learning model to classify chest CXR images into 
 1.  Building a **Convolutional Neural Network (CNN)** from scratch.
 2.  Implementing **Transfer Learning** using the pre-trained **MobileNet** model.
 
-## Table of Contents
-
-- [Data Sneak Peek](#-data-sneak-peek)
-- [Dataset](#-dataset)
-- [Requirements](#-requirements)
-- [How to Run](#-how-to-run)
-
 ---
 
-## 🖼️ Data Sneak Peek
+## Data Sneak Peek
 
 Below is a sample image from each class within the dataset:
 
