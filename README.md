@@ -2,7 +2,7 @@
 
 This project implements a deep learning model to classify chest CXR images into three categories: **COVID-19**, **Normal**, and **Virus**. Two distinct approaches are explored and compared:
 
-1.  Building a **Convolutional Neural Network (CNN)** from scratch.
+1.  Building a **Convolutional Neural Network (CNN)**.
 2.  Implementing **Transfer Learning** using the pre-trained **MobileNet** model.
 
 ---
