@@ -7,7 +7,7 @@ This project implements a deep learning model to classify chest CXR images into 
 
 ---
 
-## Data Sneak Peek
+## Sample Data
 
 Below is a sample image from each class within the dataset:
 
